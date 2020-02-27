@@ -1,2 +1,4 @@
 # Redacted-Public-Release-CC-EDI-P2-iter-P1-0-S2-Feb-2020
 Repository containing the CIF Submission for Community Care Electronic Data Interchange Phase 2, iter P1 0 S2 received Feb 2020
+
+Veterans will experience reduced wait times for care as a result of automated (i.e., expedited) referral certifications and authorizations. Veterans will receive more accurate explanations of benefits within shorter timeframes. Veterans will benefit from provider efficiencies resulting from certified compliance in the end-to-end claim and payment processing, and they will gain confidence the VA has enabled ease of care from non-VA providers. 
